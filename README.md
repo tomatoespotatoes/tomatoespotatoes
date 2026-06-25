@@ -6,11 +6,6 @@
 
 ---
 
-### What i like bru
-
-- AI OMG I LOVE GEMMA SO MUCHT
-- Lydia my gf
-
 ### Contact
 
 - "kernal.sys" - Discord
