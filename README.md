@@ -12,7 +12,7 @@
 
 ### ˖⊹ about ⊹˖
 
-I build things across the stack — local LLM inference setups, automation bots, backend servers, and front-end web experiences. Always tinkering with something new~
+I build things across the stack, local LLM inference setups, automation bots, backend servers, and front-end web experiences~
 
 <br>
 
@@ -33,14 +33,14 @@ I build things across the stack — local LLM inference setups, automation bots,
 
 ### ˖⊹ contact ⊹˖
 
-**Discord** — `kernal.sys`
+**Discord** : `kernal.sys`
 
-**Email** — dfgsdfgsdgdfs831@gmail.com
+**Email** : dfgsdfgsdgdfs831@gmail.com
 
 <br>
 
 ⋆｡°✩ ⋆｡°✩ ⋆｡°✩
 
-<sub>*always happy to work for crypto — eth, ltc, btc*</sub>
+<sub>*always happy to work for crypto - eth, ltc, btc*</sub>
 
 </div>
