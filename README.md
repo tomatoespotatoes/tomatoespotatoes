@@ -18,9 +18,9 @@
 
 ### ˖⊹ 𝑊ℎ𝑎𝑡 𝐼'𝑚 𝐼𝑛𝑡𝑜 ⊹˖
 
-- 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑖𝑛𝑔 𝑙𝑜𝑐𝑎𝑙 𝐿𝐿𝑀 𝑖𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒 (Powering the next gen)
-- 𝐶𝑙𝑒𝑎𝑛 𝑈𝐼/𝑈𝑋, 𝑔𝑙𝑎𝑠𝑠𝑚𝑜𝑟𝑝ℎ𝑖𝑠𝑚, 𝑚𝑖𝑐𝑟𝑜-𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠
-- 𝐸𝑏𝑖𝑘𝑒𝑠 (My blacked out stark varg and surron ub mogs your fucking tuttio)
+ 𝑂𝑝𝑡𝑖𝑚𝑖𝑧𝑖𝑛𝑔 𝑙𝑜𝑐𝑎𝑙 𝐿𝐿𝑀 𝑖𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒 (Powering the next gen)
+ 𝐶𝑙𝑒𝑎𝑛 𝑈𝐼/𝑈𝑋, 𝑔𝑙𝑎𝑠𝑠𝑚𝑜𝑟𝑝ℎ𝑖𝑠𝑚, 𝑚𝑖𝑐𝑟𝑜-𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠
+ 𝐸𝑏𝑖𝑘𝑒𝑠 (My blacked out stark varg and surron ub mogs your fucking tuttio)
 
 <br>
 
