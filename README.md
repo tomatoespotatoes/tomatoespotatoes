@@ -52,7 +52,7 @@
 
 ### ˖⊹ 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 ⊹˖
 
-**𝐷𝑖𝑠𝑐𝑜𝑟𝑑** : `kernal.sys`
+**𝐷𝑖𝑠𝑐𝑜𝑟𝑑** : `cheese.sys`
 **𝐸𝑚𝑎𝑖𝑙** : dfgsdfgsdgdfs831@gmail.com
 
 <br>
