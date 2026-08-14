@@ -1,40 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=200&section=header&text=Cheese&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Local%20AI%20·%20Bots%20·%20Servers%20·%20Websites&descAlignY=58&descSize=18)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+local+LLM+inference+setups;Shipping+bots+and+backend+servers;Designing+clean+front-end+experiences)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-## About
-
-I build things across the stack: local LLM inference setups, automation bots, backend servers, and front-end web experiences.
-
-</div>
-
-<br>
-
-<div align="center">
-
-## What I'm Into
-
-</div>
-
-<div align="center">
-
-**Optimizing local LLM inference:** powering the next gen
-&nbsp;&nbsp;&nbsp;&nbsp;
-**Clean UI/UX:** glassmorphism, micro-interactions
-&nbsp;&nbsp;&nbsp;&nbsp;
-**Ebikes:** blacked-out Stark and Surron UB
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=180&section=header&text=Cheese&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 </div>
 
@@ -71,25 +37,6 @@ I build things across the stack: local LLM inference setups, automation bots, ba
 
 <div align="center">
 
-## GitHub Stats
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=94a3b8&icon_color=61dafb&text_color=e2e8f0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0f172a&stroke=0f172a&ring=61dafb&fire=94a3b8&currStreakLabel=e2e8f0" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=94a3b8&text_color=e2e8f0" width="45%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## Contact
 
 </div>
@@ -105,7 +52,7 @@ I build things across the stack: local LLM inference setups, automation bots, ba
 
 <div align="center">
 
-<sub>Always happy to work for crypto: ETH · LTC · BTC</sub>
+<sub>Available for hire. Paid work only, including crypto: ETH · LTC · BTC</sub>
 
 <br><br>
 
