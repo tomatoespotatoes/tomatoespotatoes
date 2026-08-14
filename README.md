@@ -7,24 +7,22 @@
 <br/><br/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
-<img src="https://img.shields.io/badge/YAML-111111?style=for-the-badge&logo=yaml&logoColor=CB171E"/>
-<img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=assemblyscript&logoColor=e5e5e5"/>
-<img src="https://img.shields.io/badge/Ruby-111111?style=for-the-badge&logo=ruby&logoColor=e5e5e5"/>
-
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/YAML-111111?style=for-the-badge&logo=yaml&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=assemblyscript&logoColor=e5e5e5"/>
+  <img src="https://img.shields.io/badge/Ruby-111111?style=for-the-badge&logo=ruby&logoColor=e5e5e5"/>
 </div>
 
 <br/><br/>
