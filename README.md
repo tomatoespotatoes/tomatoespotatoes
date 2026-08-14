@@ -1,61 +1,50 @@
+<div align="center" style="background:#0a0a0a; border-radius:24px; padding:32px 24px 16px 24px;">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:0a0a0a&height=200&section=header&text=Cheese&fontSize=58&fontAlignY=40&fontColor=f5f5f5&fontFamily=Yellowtail&animation=fadeIn&desc=&descAlignY=60&descSize=15&descColor=a3a3a3"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1400&color=d4d4d4&center=true&vCenter=true&width=580&height=40&cursor=true&repeat=true&lines=Building+things+that+look+good+and+work;Full-stack+developer+focused+on+systems+and+automation;Turning+ideas+into+shipped+products"/>
+
+<br/><br/>
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=180&section=header&text=Cheese&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
+<img src="https://img.shields.io/badge/YAML-111111?style=for-the-badge&logo=yaml&logoColor=CB171E"/>
+<img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logo=assemblyscript&logoColor=e5e5e5"/>
+<img src="https://img.shields.io/badge/Ruby-111111?style=for-the-badge&logo=ruby&logoColor=e5e5e5"/>
 
 </div>
 
-<br>
+<br/><br/>
 
-<div align="center">
+<p>
+  <a href="https://discord.com/users/1368264423806074910">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=e5e5e5" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dfgsdfgsdgdfs831@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=e5e5e5" alt="Email"/>
+  </a>
+</p>
 
-## Stack
+<p style="color:#a3a3a3; font-size:13px; letter-spacing:0.4px; margin-top:8px;">
+  Available for paid work &nbsp;·&nbsp; ETH · LTC · BTC
+</p>
 
-</div>
+<br/>
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuemacs&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Contact
-
-</div>
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-cheese.sys-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-dfgsdfgsdgdfs831%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dfgsdfgsdgdfs831@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Available for hire. Paid work only, including crypto: ETH · LTC · BTC</sub>
-
-<br><br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:141414,100:0a0a0a&height=100&section=footer&animation=fadeIn"/>
 
 </div>
