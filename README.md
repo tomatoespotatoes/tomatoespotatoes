@@ -26,26 +26,6 @@
 
 <br/>
 
-<div align="center">
-
-### stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tomatoespotatoes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A0A0A0&icon_color=A0A0A0" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tomatoespotatoes&theme=dark&hide_border=true&background=0d1117" alt="streak" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### activity
-
-<img src="https://raw.githubusercontent.com/tomatoespotatoes/tomatoespotatoes/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
