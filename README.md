@@ -11,12 +11,13 @@
   <img src="https://img.shields.io/badge/GitHub-39D353?style=flat-square&logo=github&logoColor=0D1117" alt="GitHub"/>
 </a>
 
-<br>
+<br><br>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=2"/>
 
 <table width="100%">
 <tr>
+
 <td width="50%" align="center" valign="top">
 
 ### Stack
@@ -43,13 +44,13 @@
 
 ### Hire Me
 
-<img src="https://img.shields.io/badge/●_Open_to_Work-0D1117?style=for-the-badge&logoColor=39D353&labelColor=0D1117&color=0D1117" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/●_Open_to_Work-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Open to Work"/>
 
-<br>
+<br><br>
 
-**Projects · Software · Tools**
+`Software · Tools · Projects`
 
-<br>
+<br><br>
 
 <a href="https://github.com/tomatoespotatoes?tab=repositories">
   <img src="https://img.shields.io/badge/View_Repositories-39D353?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Repositories"/>
@@ -60,19 +61,47 @@
 `@tomatoespotatoes`
 
 </td>
+
 </tr>
 </table>
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=2"/>
 
-### Activity
+### GitHub
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=tomatoespotatoes&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area=true&area_color=39D353&hide_border=true&custom_title="
+  src="https://github-readme-stats.vercel.app/api?username=tomatoespotatoes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&hide_rank=true"
   width="100%"
-  alt="GitHub Activity"
+  alt="GitHub Stats"
 />
 
-<img src="https://komarev.com/ghpvc/?username=tomatoespotatoes&style=flat-square&color=39D353&label=Profile+Views" alt="Profile Views"/>
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoespotatoes&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9"
+  width="100%"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=2"/>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=tomatoespotatoes&style=flat-square&color=39D353&label=Profile+Views"
+  alt="Profile Views"
+/>
 
 </div>
