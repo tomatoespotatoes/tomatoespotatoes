@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/tomatoespotatoes.png" width="120" alt="tomatoespotatoes"/>
-
 # cheese
 
 `c++ · python · typescript · react · local ai`
@@ -9,52 +7,81 @@
 <br>
 
 <a href="https://github.com/tomatoespotatoes?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/PROJECTS-39D353?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/tomatoespotatoes">
-  <img src="https://img.shields.io/badge/GITHUB-39D353?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/GITHUB-39D353?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:39D353&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=3"/>
 
 <br>
 
 ## `~/hire-me`
 
-<img src="./assets/hire-me.svg" width="100%" alt="HIRE ME"/>
+<table width="100%">
+<tr>
+<td align="center">
+
+### `● @tomatoespotatoes`
+
+**open to work · projects · software**
 
 <br>
 
-[**repositories ↗**](https://github.com/tomatoespotatoes?tab=repositories)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**github ↗**](https://github.com/tomatoespotatoes)
+<a href="https://github.com/tomatoespotatoes?tab=repositories">
+  <img src="https://img.shields.io/badge/view_repositories-39D353?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br><br>
+</td>
+</tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:58A6FF&height=3"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=3"/>
 
 <br>
 
 ## stack
 
-<img src="https://img.shields.io/badge/C++-58A6FF?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-39D353?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-58A6FF?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-39D353?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-39D353?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-58A6FF?style=flat-square&logo=css&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=39D353"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tomatoespotatoes&style=flat-square&color=39D353&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=39D353"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=39D353"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:39D353&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=3"/>
+
+<br>
+
+## activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=tomatoespotatoes&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area=true&hide_border=true"
+  width="100%"
+  alt="activity graph"
+/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tomatoespotatoes&style=for-the-badge&color=39D353&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=90&section=footer"/>
 
 </div>
