@@ -18,7 +18,7 @@
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 ### Stack
 
@@ -40,11 +40,14 @@
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
 ### Hire Me
 
-<img src="https://img.shields.io/badge/●_Open_to_Work-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Open to Work"/>
+<img
+  src="https://img.shields.io/badge/●_Open_to_Work-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117"
+  alt="Open to Work"
+/>
 
 <br><br>
 
@@ -67,28 +70,40 @@
 
 <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=39D353&height=2"/>
 
-### GitHub
+### Focus
 
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=tomatoespotatoes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=39D353&hide_rank=true"
-  width="100%"
-  alt="GitHub Stats"
-/>
+**C++**
+
+`Systems`
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoespotatoes&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9"
-  width="100%"
-  alt="Top Languages"
-/>
+**Python**
+
+`Automation`
+
+</td>
+
+<td width="25%" align="center">
+
+**TypeScript**
+
+`Web`
+
+</td>
+
+<td width="25%" align="center">
+
+**Local AI**
+
+`Inference`
 
 </td>
 
